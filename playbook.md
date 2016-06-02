@@ -177,6 +177,7 @@ While it can be tempting to write a new style guide, it's not a worthwhile inves
 
 * PHP - [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
 * Sass - [Sass Guidelines - Syntax and formatting](http://sass-guidelin.es/#syntax--formatting)
+* JavaScript - [Standard](http://standardjs.com/)
 
 
 #### Pull requests and code reviews
